@@ -9,4 +9,4 @@ const server = app.listen(port, () => {
     console.log(`Listening on port ${port}`);
 });
 
-Gun({ web: server });
+Gun({ file: 'db/data', web: server });
