@@ -52,7 +52,7 @@
   },
   "homepage": "https://github.com/amark/gun#readme",
   "engines": {
-    "node": ">=0.8.4"
+    "node": "17.1.x"
   },
   "tsd": {
     "directory": "types"
